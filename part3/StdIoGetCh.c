@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
+#include <conio.h>  // getch, getche는 여기에 선언되어있음
 
 void main(){
     char ch;
